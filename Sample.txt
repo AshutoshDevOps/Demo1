@@ -1,1 +1,1 @@
-New statement
+New statement. Checking git ignore
